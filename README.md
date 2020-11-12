@@ -1,6 +1,6 @@
 # obigelow.github.io
 
-s the github hosting website required to use github hosting.
+This is the github hosting website required to use github hosting.
 
 ## Installation
 
@@ -41,4 +41,5 @@ This is here purely to allow hosting, there is no use besides that.
 - [License](#License)
 - [Tests](#Tests)
 - [Question](#Question)
+
 
